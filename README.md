@@ -6,3 +6,5 @@
 01_breadthfirst_traversal.c - breadthfirst traversal of search tree - array input,array output.
 02_preorder_traversal.c - preorder traversal of search tree - array input, array output.
 03_postorder_traversal.c - postorder traversal of search tree - array input, array output.
+01_sort07.c - heap and quick sorting - array input, array output.
+
